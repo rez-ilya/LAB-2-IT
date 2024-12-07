@@ -26,4 +26,4 @@ int main(int argc, char** argv)
     return 0;
 }
 // Новый текст
-// Это изменение для Version2
+// Это изменение для Version2    rfjcyjh
